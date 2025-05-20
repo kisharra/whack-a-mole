@@ -1,1 +1,1 @@
-![CI](https://github.com/kisharra/whack-a-mole/actions/workflows/deploy.yml/badge.svg)
+![CI](https://github.com/kisharra/whack-a-mole/actions/workflows/web.yml/badge.svg)
