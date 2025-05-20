@@ -5,7 +5,7 @@ test('placeMoleRandomly places mole in a cell', () => {
   const board = document.getElementById('game');
 
   // Создаем 16 ячеек
-  for (let i = 0; i < 16; i++) {
+  for (let i = 0; i < 16; i += 1) {
     const cell = document.createElement('div');
     cell.classList.add('cell');
     board.appendChild(cell);

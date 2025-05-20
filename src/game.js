@@ -7,7 +7,7 @@ export function createGameBoard() {
   board.style.gridGap = '10px';
   board.style.marginTop = '20px';
 
-  for (let i = 0; i < 16; i++) {
+  for (let i = 0; i < 16; i += 1) {
     const cell = document.createElement('div');
     cell.classList.add('cell');
     cell.style.width = '100px';
