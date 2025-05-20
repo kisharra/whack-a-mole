@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: WHACK-A-MOLE
 
 on:
   push:
